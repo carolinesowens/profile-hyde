@@ -9,7 +9,7 @@ Iowa City, IA 52245
 
 #### The National Eating Disorders Association, New York, NY
 ##### Communications Intern *Summer 2016*
-  	Working under the Communications Director, generating social media messages and blogs according to current mission, researching organizations and contacting these for annual conference and other occasions. 
+Working under the Communications Director, generating social media messages and blogs according to current mission, researching organizations and contacting these for annual conference and other occasions. 
 
 * Certified 'Body Project' Instructor
 * An evidence-based body acceptance and eating disorders prevention program
