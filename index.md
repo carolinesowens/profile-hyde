@@ -18,5 +18,5 @@ I have proven expertise in [multimedia storytelling](/), [journalistic reporting
 <br>
 <a href="https://www.facebook.com/profile.php?id=506348509"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
-<a href="ttps://www.linkedin.com/in/caroline-owens-62a971a4"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
+<a href="ttps://www.linkedin.com/in/caroline-owens"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
