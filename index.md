@@ -8,7 +8,7 @@ title: Home
 
 I am currently an undergraduate senior studying journalism and mass communications at the University of Iowa School of Journalism. I am also pursuing a certificate in Entrepreneurial Management through the Tippie College of Business. 
 
-
+I am seeking employment in the Journalism and Mass Communications Field, or in a field relatable to assist my experiences further. Looking for a helpful, accomplishing start for my future endeavors. 
 
 
 
