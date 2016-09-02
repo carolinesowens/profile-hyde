@@ -2,52 +2,44 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+Iowa City, IA 52245  
+[caroline-owens@uiowa.edu](mailto:caroline-owens@uiowa.edu) - (641) 799-4897
 
 ### Experience
 
-#### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
-Brief description here.    
+#### The National Eating Disorders Association, New York, NY
+##### Communications Intern *Summer 2016*
+  	Working under the Communications Director, generating social media messages and blogs according to current mission, researching organizations and contacting these for annual conference and other occasions. 
 
-* list two or three
-* important achievements
+* Certified 'Body Project' Instructor
+* An evidence-based body acceptance and eating disorders prevention program
 
-##### Copy Editor *Sept. 2014 - Dec. 2015*
-Brief description here.    
-
-* list two or three
-* important achievements
-* you want to emphasize
+#### University of Iowa Libraries 
+##### Conservation Department Assoicate *Summer 2015-Current*
+Labeling books with correct ‘call number’, binding books with security processes, preserving books with proper equipment to prevent any damage, organizing books to send down to further processing    
 
 
-#### University of Iowa Hospitals and Clinics
-##### Food service supervisor *Jan. - May 2016*
-Very brief description here. No bullets.  
+#### University of Iowa ITS
+##### Receptionist/Clerical Services *Winter 2014-Fall 2014*
+Meeting and greeting clients at the front desk, setting up meetings to accompany client’s needs, answering the phone and making transfers to accompany clients, accomplishing tasks for administrators, keeping the front room tidy  
 
 
 ### College Activities
-#### Sigma Delta Chi
-Brief explanation
+#### Delta Delta Delta Sorority
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+* Vice President of Public Relations Jan. 2016 - present
+* Member  September 2014 - present
 
-
-#### Iowa Raptor Project
-Something about birds.
 
 ### Skills
-#### Video production
-* FinalCut X
-* Adobe Premiere
-* Experience with SLR and DVCAM shooting
+#### Social Media Programming
+* Hootesuite
+* Wordpress
+* Experience with social media platforms
 
-#### Another skill
-* subskills/software
 
 ### Education
 #### University of Iowa
-Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
+Bachelor of Arts in Journalism and Mass Communication *anticipated graduation May 2017* 
+
+#### Indian Hills Community College 18.00 SH completed 
