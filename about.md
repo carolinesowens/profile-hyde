@@ -4,27 +4,11 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+I am currently an undergraduate senior student studying journalism at the University of Iowa also pursing my business certificate in Entrepreneurship. I have been interested in the journalism field from a very young age and for this reason hope to immerse myself into the career after I finish my education at the University of Iowa. 
+
+I have a passion for writing, editing, and expressing my thoughts and known information. I have gained much experience from taking multiple classes for the journalism major and from other writing classes of my choice. I am an active member of the Writer's Workshop at the University of Iowa. I also gained a lot of valuable experience from my internship this summer, at the non-profit organization NEDA. With this, my first internship, I was forced to learn quickly and to adapt. I gained much expertise in editing and conducting blogs, social media messages and preparing populated events. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## 
