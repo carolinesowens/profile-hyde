@@ -6,9 +6,11 @@ title: Home
 ![logo](public/nyny.jpg)
 
 
-I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2016.
+I am currently an undergraduate senior studying journalism and mass communications at the University of Iowa School of Journalism. I am also pursuing a certificate in Entrepreneurial Management through the Tippie College of Business. 
 
-I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently the sergeant-at-arms of the University of Iowa [Society for the Promotion of Associations](/#), and I really like green eggs and ham.
+
+
+
 
 ### Social media
 
