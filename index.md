@@ -14,9 +14,9 @@ I have proven expertise in [multimedia storytelling](/), [journalistic reporting
 
 <!-- go to http://fontawesome.io/icons/ to see more icons -->
 <p class="social-icons">
-<a href="http://twitter.com/stellarstudent"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
+<a href="https://twitter.com/CarolinaSOwens"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
 <br>
-<a href="http://facebook.com/stellarstudent"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
+<a href="https://www.facebook.com/profile.php?id=506348509"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
-<a href="http://linkedin.com/in/stellarstudent"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
+<a href="ttps://www.linkedin.com/in/caroline-owens-62a971a4"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
